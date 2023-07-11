@@ -1,0 +1,50 @@
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  color: #3A3B3C;
+}
+
+.textarea {
+  width: 100%;
+  padding: 10px;
+}
+
+.submit-button {
+  margin-top: 20px;
+  border-radius: 10px;
+  width: 200px;
+  height: 40px;
+  color: white;
+  background-color: #ff7759;
+  border: none;
+}
+
+.reset-button {
+  margin-top: 20px;
+  margin-left: 20px;
+  border-radius: 10px;
+  width: 200px;
+  height: 40px;
+  color: #0b0b0b;
+  border: 2px solid #ff7759;
+  background-color: white;
+}
+
+.summary-container {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.summary-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.copy-button {
+  color: #0b0b0b;
+  border: 2px solid #ff7759;
+  background-color: white;
+  border-radius: 4px;
+}
